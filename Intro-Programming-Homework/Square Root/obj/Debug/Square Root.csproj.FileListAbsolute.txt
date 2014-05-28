@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\Intro-Programming-Homework\Square Root\bin\Debug\Square Root.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\Intro-Programming-Homework\Square Root\bin\Debug\Square Root.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Intro-Programming-Homework\Square Root\bin\Debug\Square Root.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\Intro-Programming-Homework\Square Root\obj\Debug\Square Root.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Intro-Programming-Homework\Square Root\obj\Debug\Square Root.pdb
